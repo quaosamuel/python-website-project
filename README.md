@@ -1,1 +1,5 @@
 # python-website-project
+
+            PLAN
+* BUILD A FRONT END USING PYTHON
+* USE DOCKER TO CREATE A DATABASE FOR THE WEBSITE
